@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Drew, person from Ann Arbor, MI. <br><br>I'm currently working on some web projects through a bootcamp. <br><br>I like to build and use digital products that improve focus. 
+I'm Drew, person from Ann Arbor, MI.
 
 
 ## 🌐 Socials:
